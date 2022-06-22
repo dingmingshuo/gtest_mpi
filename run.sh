@@ -1,0 +1,1 @@
+mpirun -np $1 build/gtest_mpi
